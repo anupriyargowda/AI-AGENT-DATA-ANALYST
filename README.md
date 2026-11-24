@@ -321,7 +321,7 @@ It is useful for:
 
 ##  Author
 
-Developed by **Muhammad Shoaib**
+Developed by **ANUPRIYA B R**
 
 ```text
 AI Data Analyst System
